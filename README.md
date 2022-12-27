@@ -18,5 +18,5 @@
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
-|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java]()|Easy|
-|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java]()|Easy|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/IpAddress.java)|Easy|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/GoalParser.java)|Easy|
