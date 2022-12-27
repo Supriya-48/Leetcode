@@ -11,4 +11,12 @@
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/EvenNoOfDigits.java)|Easy|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/StudentHomework.java)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/GreatestRightNumber.java)|Easy|
-|2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Java]()|Easy|
+|2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/SmallIndex.java)|Easy|
+
+
+# String
+
+|  #   |       Title      |    Solution   |  Difficulty  |
+|------|:----------------:|:-------------:|-------------:|
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java]()|Easy|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java]()|Easy|
