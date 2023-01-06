@@ -22,4 +22,4 @@
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/IpAddress.java)|Easy|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/GoalParser.java)|Easy|
 |2194|[Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/CellsInRange.java)|Easy|
-|2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Java]()|Easy|
+|2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/CountAstrisks.java)|Easy|
