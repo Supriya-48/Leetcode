@@ -25,4 +25,4 @@
 |2315|[Count Asterisks](https://leetcode.com/problems/count-asterisks/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/CountAstrisks.java)|Easy|
 |1967|[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ContainsSubstring.java)|Easy|
 |1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ReplaceDigits.java)|Easy|
-|2124|[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)|[Java]()|Easy|
+|2124|[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/AsBeforeBs.java)|Easy|
