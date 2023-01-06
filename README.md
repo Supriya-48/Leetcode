@@ -28,4 +28,4 @@
 |2124|[Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/AsBeforeBs.java)|Easy|
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/WordSum.java)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/GoatLatin.java)|Easy|
-|2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/)|[Java]()|Easy|
+|2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/AscSentence.java)|Easy|
