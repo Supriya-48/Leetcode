@@ -36,4 +36,4 @@
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[StringBased]()<br/>[Integer]()|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[StringBased](https://github.com/Supriya-48/Leetcode/blob/main/java/palindromeString.java)<br/>[Integer](https://github.com/Supriya-48/Leetcode/blob/main/java/PalindromeInt.java)|Easy|
