@@ -31,3 +31,9 @@
 |1880|[Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/WordSum.java)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/GoatLatin.java)|Easy|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/AscSentence.java)|Easy|
+
+# Math
+
+|  #   |       Title      |    Solution   |  Difficulty  |
+|------|:----------------:|:-------------:|-------------:|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[StringBased]()<br/>[Integer]()|Easy|
