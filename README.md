@@ -12,6 +12,7 @@
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/StudentHomework.java)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/GreatestRightNumber.java)|Easy|
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/SmallIndex.java)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java]()|Easy|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MaxIceBars.java)|Medium|
 
 
