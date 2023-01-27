@@ -13,6 +13,7 @@
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/GreatestRightNumber.java)|Easy|
 |2057|[Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/SmallIndex.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/TwoSum.java)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java]()|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ContainWater.java)|Medium|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MaxIceBars.java)|Medium|
 
