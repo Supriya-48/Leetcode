@@ -18,7 +18,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/SingleNumber.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ContainWater.java)|Medium|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MaxIceBars.java)|Medium|
-|149|[ Max Points on a line](https://leetcode.com/problems/max-points-on-a-line/)|[Java]()|Hard|
+|149|[ Max Points on a line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MaxPointsOnALine.java)|Hard|
 
 
 # String
