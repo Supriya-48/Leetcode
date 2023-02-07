@@ -16,6 +16,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/RemoveEle.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/PlusOne.java)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/SingleNumber.java)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/?envType=study-plan&id=data-structure-i)|[Java]()|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ContainWater.java)|Medium|
 |1833|[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MaxIceBars.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/FirstLast.java)|Medium|
