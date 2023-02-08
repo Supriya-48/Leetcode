@@ -47,4 +47,4 @@
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ConvertTemp.java)|Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/GoodPairs.java)|Easy|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/SmallEvenMultiple.java)|Easy| 
-|2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Java]()|Easy|
+|2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MinSum.java)|Easy|
