@@ -46,3 +46,4 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[StringBased](https://github.com/Supriya-48/Leetcode/blob/main/java/palindromeString.java)<br/>[Integer](https://github.com/Supriya-48/Leetcode/blob/main/java/PalindromeInt.java)|Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Java]()|Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java]()|Easy|
+|2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)|[Java]()|Easy|
