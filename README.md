@@ -52,3 +52,9 @@
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/ProdDigiSum.java)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/Steps.java)|Easy|
 |2520|[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/DigiDivide.java)|Easy|
+
+# Dynamic programming
+
+|  #   |       Title      |    Solution   |  Difficulty  |
+|------|:----------------:|:-------------:|-------------:|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Java]()|Easy|
