@@ -57,4 +57,4 @@
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Java]()|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/CountingBits.java)|Easy|
