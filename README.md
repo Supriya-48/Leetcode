@@ -1,4 +1,8 @@
-# Arrays
+# Programming
+___
+
+
+## Arrays
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
@@ -24,7 +28,7 @@
 |149|[ Max Points on a line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/MaxPointsOnALine.java)|Hard|
 
 
-# String
+## String
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
@@ -39,7 +43,7 @@
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/GoatLatin.java)|Easy|
 |2042|[Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/AscSentence.java)|Easy|
 
-# Math
+## Math
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
@@ -53,8 +57,16 @@
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/Steps.java)|Easy|
 |2520|[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/DigiDivide.java)|Easy|
 
-# Dynamic programming
+## Dynamic programming
 
 |  #   |       Title      |    Solution   |  Difficulty  |
 |------|:----------------:|:-------------:|-------------:|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/CountingBits.java)|Easy|
+
+
+# MYSQL
+___
+
+| #                                                               |                Title                |   Solution   |  Difficulty  |
+|-----------------------------------------------------------------|:-----------------------------------:|:------------:|-------------:|
+| 1757| [Recyclable and Low fat products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [solution](https://github.com/Supriya-48/Leetcode/blob/main/mysql/RecycableAndLowFatProducts.sql) |Easy|
