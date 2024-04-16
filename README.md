@@ -63,10 +63,3 @@
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Java](https://github.com/Supriya-48/Leetcode/blob/main/java/CountingBits.java)|Easy|
 
 
-# MYSQL
-
-| #    |                                                                        Title                                                                         |                                             Solution                                              | Difficulty |
-|------|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|-----------:|
-| 1757 | [Recyclable and Low fat products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [solution](https://github.com/Supriya-48/Leetcode/blob/main/mysql/RecycableAndLowFatProducts.sql) |       Easy |
-| 584  |                 [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50)                 |      [solution](https://github.com/Supriya-48/Leetcode/blob/main/mysql/CustomerReferee.sql)       |       Easy |
-| 595  |                         [Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50)                         |        [solution](https://github.com/Supriya-48/Leetcode/blob/main/mysql/BigCountries.sql)        |       Easy |
